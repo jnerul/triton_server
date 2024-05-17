@@ -1,3 +1,7 @@
+这里用到了两个开源库,其实是一个
+evhtp https://libevent.org/
+event
+
 TRITONSERVER_Error*
 HTTPServer::Start()
 {
